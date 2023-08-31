@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Database and Data Scient**
 
-- 👯 I’m looking to collaborate on **Google Dev. or OpenAI**
+- 🚀 I’m looking to collaborate on **Google Dev. or OpenAI**
 
 - 📫 How to reach me **ari.yunan@gmail.com**
 
