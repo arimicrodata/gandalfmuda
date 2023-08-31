@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ari.yunan@gmail.com**
 
-- ⚡ Fun fact **Saya Pasti Bisa dengan Berdoa & Berusaha**
+- ⚡ Fun fact **Berdoa & Berusaha**
 
 
 <p align="left">
