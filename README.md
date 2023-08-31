@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Web and smartphone application development**
 
-- 🌱 I’m currently learning **Frameworks and Database**
+- 🌱 I’m currently learning **Database and Data Scient**
 
 - 👯 I’m looking to collaborate on **Google Dev. or OpenAI**
 
