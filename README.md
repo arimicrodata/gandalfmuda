@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ari.yunan@gmail.com**
 
-- ⚡ Fun fact **A hobby is an ambition that then becomes money**
+- ⚡ Fun fact **Saya Pasti Bisa dengan Berdoa & Berusaha**
 
 
 <p align="left">
