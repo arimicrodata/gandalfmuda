@@ -25,7 +25,7 @@
 - 🏘️ managing small house rentals.
 - ⌨️ Remote Working.
 - ☕ Explore Coffee Bar & Shop.
-- 🏒 playing golf.
+- ⛳ playing golf.
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ariyunan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ariyunan" /></a></p><br><br>
