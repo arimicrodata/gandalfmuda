@@ -30,6 +30,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ariyunan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ariyunan" /></a></p><br><br>
 
-<h3 align="left">Verify Under:</h3>
+<h3 align="left">Talent Community:</h3>
 
 ![alt text](https://i.postimg.cc/j5gFBtGw/Beauty-Plus-20230907154427057-save.jpg?raw=true)
