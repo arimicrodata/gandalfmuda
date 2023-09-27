@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Web and smartphone application development**
 
-- 🌱 I’m currently learning **Database and Data Scient**
+- 🌱 I’m currently learning **Data Scient**
 
 - 🚀 I’m looking to collaborate on **Google Dev. or OpenAI**
 
@@ -23,9 +23,8 @@
 <h3 align="left">My activities besides web development:</h3>
 
 - 🏘️ managing small house rentals.
-- ⌨️ Remote Working.
 - ☕ Explore Coffee Bar & Shop.
-- ⛳ playing golf.
+- ⌨️ Remote Working.
 
 <h3 align="left">Project Repository Support:</h3>
 
