@@ -39,8 +39,8 @@ BUMN & BRIN
 
 <h3 align="left">Policies & Regulations:</h3>
 
-"This project aims to develop an artificial intelligence system that can help in any work process. All of these projects use algorithms that have been regulated and adapted to applicable artificial intelligence regulations. In addition, this project will ensure that the data used in the development of this system has been obtained legally and in accordance with applicable privacy regulations.
+"This project aims to develop website applications and artificial intelligence systems that can help in every work process. All of these projects use algorithms that have been regulated and adapted to applicable artificial intelligence regulations. In addition, this project will ensure that the data used in the development of this system has been obtained lawfully and in accordance with applicable privacy regulations.
 
 This project will be used for learning and testing only, with the aim of increasing understanding of artificial intelligence among students, students and researchers. The entire development and testing process will be carried out taking into account the ethical and security principles established by artificial intelligence regulations.
 
-In this case, the project is fully compliant with artificial intelligence regulations and does not violate any established rules. Every effort will be made to ensure that this project contributes to increasing knowledge and understanding of artificial intelligence, without violating or jeopardizing public interest, privacy or ethics."
+In this case, the project fully complies with artificial intelligence regulations and does not violate any established rules. Every effort will be made to ensure that this project contributes to increasing knowledge and understanding of artificial intelligence, without violating or jeopardizing public interest, privacy, or ethics.."
