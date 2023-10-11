@@ -37,10 +37,10 @@ BUMN & BRIN
 
 ![alt text](https://i.postimg.cc/j5gFBtGw/Beauty-Plus-20230907154427057-save.jpg?raw=true)
 
-<h3 align="left">Kebijakan & Regulasi:</h3>
+<h3 align="left">Policies & Regulations:</h3>
 
-"Proyek ini bertujuan untuk mengembangkan sebuah sistem kecerdasan buatan yang dapat membantu dalam proses pekerjaan apapun. Sistem ini akan menggunakan algoritma yang telah diatur dan disesuaikan dengan regulasi kecerdasan buatan yang berlaku. Selain itu, proyek ini akan memastikan bahwa data yang digunakan dalam pengembangan sistem ini telah diperoleh secara legal dan sesuai dengan regulasi privasi yang berlaku.
+"This project aims to develop an artificial intelligence system that can help in any work process. All of these projects use algorithms that have been regulated and adapted to applicable artificial intelligence regulations. In addition, this project will ensure that the data used in the development of this system has been obtained legally and in accordance with applicable privacy regulations.
 
-Proyek ini hanya akan digunakan untuk pembelajaran dan pengujian, dengan tujuan untuk meningkatkan pemahaman tentang kecerdasan buatan di kalangan pelajar, mahasiswa, dan peneliti. Seluruh proses pengembangan dan pengujian akan dilakukan dengan memperhatikan etika dan prinsip keamanan yang ditetapkan oleh regulasi kecerdasan buatan.
+This project will be used for learning and testing only, with the aim of increasing understanding of artificial intelligence among students, students and researchers. The entire development and testing process will be carried out taking into account the ethical and security principles established by artificial intelligence regulations.
 
-Dalam hal ini, proyek ini sepenuhnya patuh terhadap regulasi kecerdasan buatan dan tidak melanggar aturan yang telah ditetapkan. Segala upaya akan dilakukan untuk memastikan bahwa proyek ini berkontribusi pada peningkatan pengetahuan dan pemahaman tentang kecerdasan buatan, tanpa melanggar atau membahayakan kepentingan publik, privasi, atau etika."
+In this case, the project is fully compliant with artificial intelligence regulations and does not violate any established rules. Every effort will be made to ensure that this project contributes to increasing knowledge and understanding of artificial intelligence, without violating or jeopardizing public interest, privacy or ethics."
