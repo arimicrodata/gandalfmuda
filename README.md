@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm ARI YUNAN</h1>
+
+<a href="https://app.daily.dev/ariyunan"><img src="https://api.daily.dev/devcards/da4517b94e2b4a0dab4a1ba4eb156840.png?r=3lt" width="400" alt="Ari Yunan's Dev Card"/></a>
 <h3 align="center">A Passionate 2023/2024 Web Apps developer & Research Data from Indonesia</h3>
 
 <h3 align="left">👨🏻‍🚀🛰️ Connect with me:</h3>
